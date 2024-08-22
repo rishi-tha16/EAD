@@ -7,6 +7,7 @@ const mongoose = require('mongoose')
         required: true
     },
     tech: 
+    
     {
         type: String,
         required: true
